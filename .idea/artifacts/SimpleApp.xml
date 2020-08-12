@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SimpleApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleApp</output-path>
+    <root id="archive" name="SimpleApp.jar" />
+  </artifact>
+</component>
