@@ -1,4 +1,4 @@
-package com.naren.java8.streams;
+package com.naren.java8.map;
 
 import com.naren.java8.model.Student;
 
