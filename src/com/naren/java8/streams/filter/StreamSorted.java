@@ -1,4 +1,4 @@
-package com.naren.java8.streams;
+package com.naren.java8.streams.filter;
 
 import com.naren.java8.model.Student;
 
