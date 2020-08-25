@@ -1,4 +1,4 @@
-package com.naren.java8.streams.anymatch;
+package com.naren.java8.streams.match;
 
 import java.util.List;
 import java.util.function.Predicate;
@@ -32,7 +32,7 @@ class Student{
       return list;
    }
 }
-public class Example {   
+public class AnyMatchExxample {
    public static void main(String[] args) {
       Predicate<Student> p1 = s -> s.stuName.startsWith("S");
       Predicate<Student> p2 = s -> s.stuAge < 28 && s.stuName.startsWith("Z");       

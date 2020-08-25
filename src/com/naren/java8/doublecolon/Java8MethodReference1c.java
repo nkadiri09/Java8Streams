@@ -15,7 +15,7 @@ public class Java8MethodReference1c {
               });                                                                   // 3
 
         // lambda
-        String result1 = playTwoArgument(1, 2, (a, b) -> IntegerUtils.join(a, b));  // 3
+        //String result1 = playTwoArgument(1, 2, (a, b) -> IntegerUtils.join(a, b));  // 3
 
         // method reference
         String result2 = playTwoArgument(1, 2, IntegerUtils::join);                 // 3
